@@ -30,7 +30,7 @@ L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
 
 L.marker([38.893852, -77.042642], {icon: hotelIcon}).addTo(map)
         .bindPopup("<b>The Washington Square Hotel: rates: $263.00 - $361.00: contact 212-777-9515 - callers must advise they are with the New School and request the New School corporate rate: http://www.wshotel.com/").openPopup();
-L.marker([38.533766, -77.014307]).addTo(map)
+L.marker([38.533739, -77.014874]).addTo(map)
         .bindPopup("<b>The Wilson Center - http://www.wilsoncenter.org/directions").openPopup();
 
 var popup = L.popup();
