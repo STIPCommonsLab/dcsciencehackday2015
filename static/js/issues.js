@@ -1,6 +1,6 @@
 function getSessions(){
         var sessionsHTML = "<ul class='issues-list'>";
-        $.get("https://github.com/STIPCommonsLab/dcsciencehackday2015/issues?labels=Lightning%20Talks", function(data){
+        $.get("https://github.com/STIPCommonsLab/dcsciencehackday2015/issues?labels=proposed%20session"", function(data){
 
         var numSess = data.length,
                 session;
