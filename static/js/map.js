@@ -13,6 +13,6 @@ L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 L.marker([38.894513, -77.031617]).addTo(map)
-        .bindPopup("<b href="http://www.wilsoncenter.org/directions">The Wilson Center"</b>).openPopup();
+        .bindPopup("<b>The Wilson Center - http://www.wilsoncenter.org/directions").openPopup();
 
 var popup = L.popup();
