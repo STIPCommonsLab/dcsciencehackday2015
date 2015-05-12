@@ -1,6 +1,8 @@
 # dcsciencehackday2015
-48-hour science hackathon.
+48-hour hack-make-do-with-science-athon.
 
-Upload hacks to GoogleDoc by 1:30pm on Sunday: https://docs.google.com/spreadsheets/d/1CVK9FgOENWvFAJiVXwldZfvjKQrKJoqvd22_hyBmlYk/edit#gid=0
+Upload hacks to <a href="https://docs.google.com/spreadsheets/d/1CVK9FgOENWvFAJiVXwldZfvjKQrKJoqvd22_hyBmlYk/edit#gid=0">GoogleDoc</a> by <b>1:30pm</b> on Sunday May 17th 
 
-Lightning Talk presentations: https://drive.google.com/folderview?id=0BxrvMOoFWkE8fnRDYkRhUmxSQjBrUm8wZVhUajlwYlkzalFrRDZnTkg4U2oyamZqVGlUelE&usp=sharing
+<a href="https://drive.google.com/folderview?id=0BxrvMOoFWkE8fnRDYkRhUmxSQjBrUm8wZVhUajlwYlkzalFrRDZnTkg4U2oyamZqVGlUelE&usp=sharing">Lightning Talk Presentations </a>
+
+
